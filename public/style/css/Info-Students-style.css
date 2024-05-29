@@ -1,0 +1,27 @@
+html,
+body {
+    background-color: #ffff;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    height: 100%;
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+main {
+  height: 100vh;
+  height: -webkit-fill-available;
+  max-height: 100vh;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.Close-btn{
+  border: none;
+  background-color: #F4EEEE;
+}
+.bg-correct{
+  background-color: #F4EEEE;
+}

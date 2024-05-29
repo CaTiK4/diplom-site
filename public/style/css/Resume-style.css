@@ -1,0 +1,23 @@
+
+.container-resume {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.form-resume {
+    margin-bottom: 20px;
+}
+.label-resume {
+    display: block;
+    margin-bottom: 5px;
+}
+.input-resume {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.textarea-resume {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
